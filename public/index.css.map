@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["sass:/Users/guillecolotti/Develop/personal/kanban-test/src/styles/index.scss"],
+  "sourcesContent": ["* {\n  font-family: \"Segoe UI\", Tahoma, Geneva, Verdana, sans-serif;\n}\n\nh2 {\n  margin: 0 0 5px;\n  font-size: 18px;\n}"],
+  "mappings": "AAAA,EACE,sDAGF,GAJA,eAME",
+  "names": []
+}
